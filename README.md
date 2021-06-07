@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+# Kaily(she/her) is me 🥰
+
+I am currently at [Northcoders](https://northcoders.com/our-courses/coding-bootcamp) learning JS and it's frameworks. 
+I have just been learning [Data Engineering at Generation](https://uk.generation.org/manchester/data-engineering/) learning Python, SQL and AWS and how to build data pipelines locally and on the cloud.
+
+I love retrogaming and simple looking games with a puzzle twist. Do you think we can collab on a project? Let me know!
 
 <!--
 **kailyisme/kailyisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
