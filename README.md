@@ -1,22 +1,13 @@
 ### Hi there! 👋
-# Kaily(she/her) is me 🥰
+# kaily(she/her) is me 🥰
 
-I am currently at [Northcoders](https://northcoders.com/our-courses/coding-bootcamp) learning JS and it's frameworks. 
-I have just been learning [Data Engineering at Generation](https://uk.generation.org/manchester/data-engineering/) learning Python, SQL and AWS and how to build data pipelines locally and on the cloud.
+I am currently at Infinity Works (part of Accenture) as a Senior Associate Consultant
 
-I love retrogaming and simple looking games with a puzzle twist. Do you think we can collab on a project? [Let me know!](mailto:github@kailyis.me)
+I have gone through the Infinity Works [Academy](https://www.infinityworks.com/academy/)
+I also did the [Northcoders](https://northcoders.com/our-courses/coding-bootcamp) bootcamp, learning JS and all its frameworks. 
+Previously i learned [Data Engineering at Generation](https://uk.generation.org/manchester/data-engineering/) learning Python, SQL and AWS and how to build data pipelines locally and on the cloud.
 
-<!--
-**kailyisme/kailyisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love retrogaming and simple looking games with a puzzle twist.
+Please contact me at [github@kailyis.me](mailto:github@kailyis.me)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kaily newman 2022
